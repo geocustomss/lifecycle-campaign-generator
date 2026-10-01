@@ -1,0 +1,12 @@
+as_of=2026-09-30  customers=14  generation cost=$0.009013
+
+segment   n   variants disqualified winner(s)
+new       2   3        0            benefit(100), urgency(85)
+vip       3   3        0            benefit(100), urgency(85)
+active    3   3        0            benefit(100), urgency(85)
+at_risk   2   3        1            benefit(100), social_proof(60)
+lapsed    2   3        0            benefit(100), urgency(75)
+prospect  2   3        0            benefit(100), urgency(75)
+
+messages planned: 21   suppressed: 1
+  blocked [at_risk/urgency]: forbidden claim: 'guaranteed'

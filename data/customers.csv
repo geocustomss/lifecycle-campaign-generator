@@ -1,0 +1,15 @@
+customer_id,first_name,email_optin,sms_optin,signup_date,last_order_date,orders,total_spend,interest
+C001,Ava,yes,yes,2026-09-20,,0,0,sleep
+C002,Ben,yes,no,2026-09-25,,0,0,energy
+C003,Cara,yes,yes,2025-11-02,2026-09-10,6,840.50,sleep
+C004,Dev,yes,yes,2025-12-14,2026-09-01,4,610.00,energy
+C005,Elena,yes,no,2026-02-01,2026-08-15,2,180.00,sleep
+C006,Finn,yes,yes,2026-03-10,2026-06-20,2,150.00,energy
+C007,Gia,yes,yes,2026-01-05,2026-07-15,3,320.00,sleep
+C008,Hugo,no,yes,2025-08-01,2026-04-30,1,59.00,energy
+C009,Iris,yes,no,2025-05-19,2026-03-01,5,430.00,sleep
+C010,Jon,no,no,2026-01-10,2026-09-15,2,120.00,energy
+C011,Kira,yes,yes,2026-04-04,,0,0,sleep
+C012,Liam,yes,yes,2026-08-30,,0,0,energy
+C013,Mia,yes,no,2025-10-10,2026-09-20,8,1290.00,sleep
+C014,Noah,yes,yes,2026-05-18,2026-09-05,1,59.00,energy
